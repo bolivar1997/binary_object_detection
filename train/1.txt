@@ -1,0 +1,1 @@
+This folder should contain your train images 50 x 50
